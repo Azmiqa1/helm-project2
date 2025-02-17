@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: "azmiqa1/hello-backend"
+  repository: "hello-backend"
   pullPolicy: IfNotPresent
   tag: "latest"
 

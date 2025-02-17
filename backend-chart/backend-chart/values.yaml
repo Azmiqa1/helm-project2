@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: "/Users/azmi-alqawasmi/Desktop/hello-backend"
+  repository: "azmiqa1/hello-backend"
   pullPolicy: IfNotPresent
   tag: "latest"
 

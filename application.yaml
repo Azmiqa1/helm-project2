@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Azmiqa1/helm-project.git
+    repoURL: https://github.com/Azmiqa1/helm-project2.git
     targetRevision: HEAD
     path: frontend-chart/templates
   destination:

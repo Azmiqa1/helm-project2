@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Azmiqa1/helm-project2.git
     targetRevision: HEAD
-    path: Jenkinsfile
+    path: backend-chart
   destination:
     server: https://kubernetes.default.svc
     namespace: myapp2

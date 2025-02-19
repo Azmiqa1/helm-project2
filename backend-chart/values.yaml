@@ -1,9 +1,9 @@
 replicaCount: 1
 
 image:
-  repository: "hello-backend"
+  repository: "azmiqa1/hello-backend"
   pullPolicy: IfNotPresent
-  tag: "latest"
+  tag: "3"
 
 service:
   type: ClusterIP
